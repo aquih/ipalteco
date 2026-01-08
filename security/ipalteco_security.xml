@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="ipalteco_group_product_view_cost" model="res.groups">
+        <field name="name">Ver costo del producto</field>
+        <field name="category_id" ref="base.module_category_inventory_inventory"/>
+    </record>
+
+</odoo>
